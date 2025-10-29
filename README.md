@@ -96,7 +96,7 @@ Speedup saturates around 10 nodes, confirming Amdahl's limit.
 The shuffle phase becomes dominant beyond N ≈ 10.  
 All timing results are logged in [`experiments/run.csv`](experiments/run.csv).
 
-![alt text](image.png)
+![alt text](output1.png)
 ![alt text](image-1.png)
 
 
