@@ -1,9 +1,5 @@
 # Building a Distributed MapReduce Protocol (from Scratch)
 
-> A fully custom MapReduce engine built from scratch using Python sockets (TCP).  
-> Designed and deployed on a distributed Linux cluster (Telecom Paris).  
-> Implements WordCount and Distributed Sort pipelines to validate Amdahl's Law empirically.
-
 ## What is MapReduce ?
 
 MapReduce is a parallel computation model used in distributed systems (e.g., Hadoop).  
